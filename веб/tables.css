@@ -1,0 +1,17 @@
+table{
+    border:1px solid black;
+    width:870px
+ }
+
+th{
+    background:#ccc;
+}
+
+.t1{
+    background: white;
+   }
+
+.t2 {
+    background: black; 
+    color :white;
+   }

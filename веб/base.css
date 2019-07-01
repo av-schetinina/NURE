@@ -1,0 +1,61 @@
+h1{
+	text-align:center;
+	color:red;    
+}
+
+h2{
+	color:maroon;
+	text-align:center;
+}	
+
+hr{
+	size :200%;
+}
+
+p{
+	text-indent:1.5em;
+}
+
+i{
+	color:maroon;
+}
+
+img{
+	background-color:transparent;
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+}
+
+b{
+	color:maroon;
+}
+
+ul{
+	display:flex;list-style:none
+}
+
+li{
+	text-align:center;
+	margin-left:20%
+}
+
+/*styles for table*/
+table{
+    border:1px solid black;
+    width:870px
+ }
+
+th{
+    background:#ccc;
+}
+
+.t1{
+    background: white;
+   }
+
+.t2 {
+    background: black; 
+    color :white;
+   }
